@@ -12,7 +12,7 @@ Folia-safe 플러그인입니다.
 
 | 구성 요소 | 대상 버전 |
 |---|---|
-| 서버 | Folia 26.2 (`folia-api 26.2.build.7-beta`) |
+| 서버 | Folia 26.2  |
 | JVM | Java 26 권장 (최소 Java 25) |
 | Geyser API | 2.12.1-SNAPSHOT |
 | Floodgate API | 2.2.5-SNAPSHOT |
